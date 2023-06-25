@@ -49,8 +49,6 @@ Services :
 Healthbot :
 ![2023-06-25 (5)](https://github.com/yaswanth3125/project20/assets/124771390/07871591-e349-4d17-b038-06aa6fa7fc53)
 
-
-
 Tech Stack  :
 
 [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
