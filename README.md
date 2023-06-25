@@ -44,8 +44,12 @@ Services :
 Tech Stack  :
 
 [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+
 HTML
+
 CSS
+
 Bootstrap
+
 JavaScript
 
